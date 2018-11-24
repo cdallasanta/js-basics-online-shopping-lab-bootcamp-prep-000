@@ -64,7 +64,7 @@ function placeOrder(cardNumber) {
   }
 }
 
-var floatVar = "3.93";
+var floatVar = "Hello";
 var newVar = parseInt(floatVar);
 console.log(newVar);
 
